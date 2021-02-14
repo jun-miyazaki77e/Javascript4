@@ -1,0 +1,42 @@
+.backGround {
+    background-color: black;
+    padding: 10px 80px;
+    width: 70%;
+    height:60%;
+}
+.text {
+    color: white;
+}
+.bottom {
+    font-weight: 2px;
+}
+.picture {
+    width:60%;
+    hight:60%;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.slide-arrow{
+  position: absolute;
+  top: 50%;
+  margin-top: -15px;
+  background-color: black;
+}
+.prev-arrow{
+  left: -40px;
+  width: 0;
+  height: 0;
+  border-left: 0 solid transparent;
+  border-right: 15px solid #C0C0C0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+}
+.next-arrow{
+  right: 300px;
+  width: 0;
+  height: 0;
+  border-right: 0 solid transparent;
+  border-left: 15px solid #C0C0C0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+}
